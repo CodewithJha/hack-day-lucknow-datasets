@@ -6,8 +6,7 @@ Use only the folder of the problem your team picked.
 | folder | problem |
 |---|---|
 | p1-clean-cooking | Chulha to Cylinder |
-| p2-kisan-query-router | Kisan Query Router |
-| p3-grid-demand-forecast | Tomorrow's Load |
-| p4-ward-civic-demand | Ward Pulse |
-| p5-soy-leaf-health | Soy Leaf Doctor |
-| p6-report-qa-rag | Report Navigator |
+| p2-grid-demand-forecast | Tomorrow's Load |
+| p3-ward-civic-demand | Ward Pulse |
+| p4-soy-leaf-health | Soy Leaf Doctor |
+| p5-report-qa-rag | Report Navigator |

@@ -1,4 +1,4 @@
-# P4 · Ward Pulse — public data (participant-facing)
+# P3 · Ward Pulse — public data (participant-facing)
 
 Civic complaint records of a large Indian city, plus ward boundaries and ward attributes (source not disclosed).
 

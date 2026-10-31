@@ -1,4 +1,4 @@
-# P5 · Soy Leaf Doctor — public data (participant-facing)
+# P4 · Soy Leaf Doctor — public data (participant-facing)
 
 Field photographs of soybean leaves from Indian farms, 6 classes (source not disclosed).
 

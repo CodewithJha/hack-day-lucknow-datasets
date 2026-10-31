@@ -1,4 +1,4 @@
-# P3 · Day-Ahead Grid Demand — public data (participant-facing)
+# P2 · Day-Ahead Grid Demand — public data (participant-facing)
 
 Hourly operations log of a South-Asian national power grid (source not disclosed).
 
