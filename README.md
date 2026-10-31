@@ -1,5 +1,7 @@
 # Hacktoberfest Hack Day Lucknow: participant datasets
 
+**Participant guide (detailed problem statements, KPIs, submission format and rules):** [Participant_Guide_Detailed.pdf](Participant_Guide_Detailed.pdf)
+
 One folder per problem statement. Each folder has its own README with the schema, files and submission format.
 Use only the folder of the problem your team picked.
 
